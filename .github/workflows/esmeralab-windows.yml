@@ -8,6 +8,7 @@ on:
       - ".github/workflows/esmeralab-windows.yml"
       - "esmeralab/**"
       - "src/common.rs"
+      - "flutter/assets/**"
 
 env:
   CARGO_EXPAND_VERSION: "1.0.95"
