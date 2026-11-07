@@ -1,0 +1,11 @@
+{
+  "app-name": "Esmeralab Soporte",
+  "conn-type": "incoming",
+  "disable-installation": "Y",
+  "override-settings": {
+    "custom-rendezvous-server": "rd.esmeralab.site",
+    "relay-server": "rd.esmeralab.site",
+    "key": "ojolwetHriC3mRNJm8kFrXr7HC2mv6Qz36igd1w65Ps=",
+    "api-server": ""
+  }
+}
